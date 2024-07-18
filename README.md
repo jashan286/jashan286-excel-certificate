@@ -1,7 +1,6 @@
 # jashan286-excel-certificate
 ## excel certificate
 my name is jashandeep kaur mundi and i am from village shahpur
-| ----------- | ----------- | ----------- |
 My experience in Excel through this online course is very nice In this course i learn so many things and gane such a huge amount of knowledge form it . Firsty we all know Excel is a spreadsheet program from Microsoft and a component of its Office product group for business applications. Microsoft Excel enables users to format, organize and calculate data in a spreadsheet.
 
 Here is some information about it
