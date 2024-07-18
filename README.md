@@ -27,3 +27,4 @@ The MIN and MAX functions in Excel
 5) The MAX Function The MAX function returns the highest number in a range. In cell B11, I typed =MAX(B8:E8) and pressed Enter. The highest value in the range is $11,844.
 
 Leveraging these functions will help you perform calculations quickly and efficiently.
+![Screenshot_20240715_210326_Samsung Internet (1)](https://github.com/user-attachments/assets/9b23d9b3-df27-41e9-891e-0df0e8433459) 
